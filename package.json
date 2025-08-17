@@ -61,6 +61,11 @@
     "*.{ts,tsx,js,css,md}": "prettier --write packages apps docs *.md",
     "*.{ts,tsx}": "eslint --quiet --cache --fix packages apps/docs apps/web/pages apps/web/components apps/web/auth.config.ts apps/web/auth.ts"
   },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "pnpm": {
     "overrides": {
       "prosemirror-model": "^1.22.3",
