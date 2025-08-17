@@ -24,6 +24,7 @@ const nextConfig = {
     transpilePackages: [
         "@courselit/page-blocks",
         "@courselit/components-library",
+        "@courselit/icons"
     ],
     experimental: {
         serverComponentsExternalPackages: [
