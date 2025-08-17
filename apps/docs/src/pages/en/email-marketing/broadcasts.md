@@ -21,7 +21,6 @@ From the `Dashboard`, go to `Mails` to land on the `Broadcasts` hub. Here, you w
 1. Click the `New broadcast` button on the right, in the `Broadcasts` hub.
 
 2. Let's get acquainted with the interface. In the following image, we have marked all the sections. To see the description of a section, note its number in the screenshot and find its description below.
-
     -   1. **User Filters**: To select the users.
     -   2. **Total Selected Users**: The total number of selected users as per the applied filters.
     -   3. **Subject**: The email subject goes here.
@@ -40,7 +39,6 @@ From the `Dashboard`, go to `Mails` to land on the `Broadcasts` hub. Here, you w
     ![Email editor](/assets/emails/email-editor.png)
 
     We have annotated the screenshot of the CourseLit email editor:
-
     -   1. **Variables**: You can use these variables in your emails. These variables will be replaced with the actual data when sending the email.
     -   2. **Email Preview**: The live preview of the email.
     -   3. **Settings Pane**: The settings pane for the email and the selected block.

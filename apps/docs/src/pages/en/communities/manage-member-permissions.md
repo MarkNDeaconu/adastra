@@ -17,7 +17,6 @@ Managing member permissions is essential for controlling what actions members ca
     ![User edit screen](/assets/communities/member-permissions.png)
 
 4. Edit permissions using the permissions panel.
-
     - **Manage community**: The user will be able to see, create and delete communities.
     - **Manage pages**: The user will be able to edit the communities sales pages.
 

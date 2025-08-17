@@ -11,7 +11,6 @@ Managing reported content is crucial for maintaining a safe and respectful envir
 ## Steps to Change Reported Content Status
 
 1. **Access the Reported Content Section**:
-
     - Log into your CourseLit school.
     - Navigate to the `Dashboard`.
     - Go to the `Communities` section.
@@ -20,9 +19,7 @@ Managing reported content is crucial for maintaining a safe and respectful envir
     ![Community reported content dashboard](/assets/communities/reported-content-dashboard.png)
 
 2. **Review Reported Content**:
-
     - In the `Reported Content` dashboard, you will see a table listing all reported items. The table includes the following columns:
-
         - `Content`: The actual content that has been reported.
         - `Type`: The type of content (e.g., Post, Comment, Reply).
         - `Reason`: The reason provided for the report.
@@ -31,10 +28,8 @@ Managing reported content is crucial for maintaining a safe and respectful envir
         - `Actions`: Options to change the status of the report.
 
 3. **Take Action on Reported Content**:
-
     - Click on the `Change` button next to the reported item.
     - You can change the status to:
-
         - `ACCEPTED`: The report is valid, and appropriate action will be taken.
         - `PENDING`: The report is under review.
         - `REJECTED`: The report is invalid, and no action will be taken.

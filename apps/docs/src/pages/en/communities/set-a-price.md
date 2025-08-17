@@ -17,7 +17,6 @@ Setting up pricing plans for your community allows you to monetize your content 
 5. Scroll down to the **Pricing** section.
 6. Click on the **New Plan** button.
 7. Choose the type of pricing plan you want to create:
-
     - **Subscription**: Set a yearly subscription fee.
         - **Yearly**: Set a yearly subscription fee.
         - **Monthly**: Set a monthly subscription fee.

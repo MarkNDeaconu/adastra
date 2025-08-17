@@ -52,7 +52,7 @@ async function processRule(rule: RuleWithDomain) {
         return;
     }
 
-    await addBroadcastToOngoingSequence(sequence),
+    (await addBroadcastToOngoingSequence(sequence),
         (sequence.report = {
             broadcast: {
                 lockedAt: new Date(),
@@ -63,7 +63,7 @@ async function processRule(rule: RuleWithDomain) {
                 unsubscribers: [],
                 failed: [],
             },
-        });
+        }));
     await (sequence as any).save();
 
     await RuleModel.deleteOne({ ruleId: rule.ruleId });

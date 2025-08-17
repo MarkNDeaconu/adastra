@@ -35,12 +35,12 @@ export async function activateMembership(
                 membership.status = community.autoAcceptMembers
                     ? Constants.MembershipStatus.ACTIVE
                     : Constants.MembershipStatus.PENDING;
-                (membership.role = community.autoAcceptMembers
+                ((membership.role = community.autoAcceptMembers
                     ? Constants.MembershipRole.POST
                     : Constants.MembershipRole.COMMENT),
                     (membership.joiningReason = community.autoAcceptMembers
                         ? `Auto accepted`
-                        : membership.joiningReason);
+                        : membership.joiningReason));
             }
         } else {
             membership.status = Constants.MembershipStatus.ACTIVE;

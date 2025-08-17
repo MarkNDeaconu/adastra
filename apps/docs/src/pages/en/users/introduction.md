@@ -20,7 +20,6 @@ You can filter the users by the following two ways.
 2. By permissions
 
     CourseLit categorises users into four categories.
-
     - [**Customer**](/en/users/permissions#team-and-customer-users) - Everyone who has signed up for an account on your school
     - [**Team**](/en/users/permissions#team-and-customer-users) - Users who have atleast one of the admin permissions
     - **Subscriber** - Users who are subscribed to your newsletter

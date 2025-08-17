@@ -40,3 +40,4 @@ report*.json
 .eslintcache
 
 .npmrc
+apps/web/.env

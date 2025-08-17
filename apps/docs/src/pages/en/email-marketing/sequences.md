@@ -56,7 +56,6 @@ In the following image, we have marked all the sections. To see the description 
 5. Let's understand what information an email row shows:
 
     ![Sequence email row](/assets/emails/compose-sequence-email-row.jpeg)
-
     -   1. **Delay Since the Last Sent Email**: This shows the time to wait (in days) since the last email before dispatching this email.
     -   2. **Subject**: The subject of the email.
     -   3. **Published**: The status of the email. Only published emails are sent to users.
@@ -67,7 +66,6 @@ In the following image, we have marked all the sections. To see the description 
 6. To edit an email, click on the subject. This will open the email compose screen as shown below.
 
 7. Let's get acquainted with the email compose interface:
-
     -   1. **Delay**: The delay (in days) between this email and the previous one.
     -   2. **Subject**: The email's subject.
     -   3. **Email Preview**: Live email preview.
@@ -86,7 +84,6 @@ In the following image, we have marked all the sections. To see the description 
     ![Email editor](/assets/emails/email-editor.png)
 
     We have annotated the screenshot of the CourseLit email editor:
-
     -   1. **Variables**: You can use these variables in your emails. These variables will be replaced with the actual data when sending the email.
     -   2. **Email Preview**: The live preview of the email.
     -   3. **Settings Pane**: The settings pane for the email and the selected block.

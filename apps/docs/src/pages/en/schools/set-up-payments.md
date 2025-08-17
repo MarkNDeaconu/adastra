@@ -69,7 +69,6 @@ CourseLit offers integrations with the following payment platforms:
 3. In the sidebar form that slides in, enter the product name and create three variants as described below.
 
     > You can name these variants whatever you like, as we will use the `Variant IDs` instead of variant names. The same goes for pricing—we only care about the pricing type, not the actual price set on a variant, as we will override it during checkout.
-
     - **A variant with one-time pricing**: To enable one-time payments in CourseLit
     - **A variant with subscription pricing with a monthly frequency**: To enable monthly subscriptions and EMIs in CourseLit
     - **A variant with subscription pricing with a yearly frequency**: To enable yearly subscriptions in CourseLit  
@@ -80,7 +79,6 @@ CourseLit offers integrations with the following payment platforms:
 
 5. In your CourseLit school's dashboard, go to `Settings > Payments` and configure the settings as described below.  
    ![CourseLit Lemon Squeezy config](/assets/schools/courselit-lemonsqueezy-config.png)
-
     1. **Currency**: This will be visible throughout your school but won't affect Lemon Squeezy checkouts, as Lemon Squeezy does not allow overriding it via custom checkout.
     2. **Payment method**: Select Lemon Squeezy.
     3. **Lemon Squeezy Store ID**: In the Lemon Squeezy dashboard, go to `Settings > Stores` as shown below. Copy and paste this ID into the CourseLit settings.  
@@ -96,7 +94,6 @@ CourseLit offers integrations with the following payment platforms:
    ![Lemon Squeezy webhook](/assets/schools/lemon-webhook.png)
 
 8. In the webhook slider popup, enter the following:
-
     - The webhook URL for your CourseLit school (listed in the same payment screen in your school).
     - Enter any random string in `Signing secret` (coming soon).
     - Check the following events:
